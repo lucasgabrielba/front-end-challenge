@@ -8,7 +8,7 @@ Este repositório contém três desafios de front-end para testar suas habilidad
 
 Crie uma aplicação que permita ao usuário inserir seu nome e um número. A aplicação deve enviar esses dados para uma API, que calcula o número de Fibonacci correspondente e armazena o resultado. Exiba uma lista com o nome do usuário e o resultado de Fibonacci.
 
-[Mais detalhes](./challenge-1)
+[Mais detalhes](./challenge-1.md)
 
 ## Desafio 2: Dropzone para Upload de Arquivos
 
@@ -16,7 +16,7 @@ Crie uma aplicação que permita ao usuário inserir seu nome e um número. A ap
 
 Crie uma aplicação que permita ao usuário arrastar e soltar arquivos em uma área específica para fazer upload. Liste os arquivos enviados e permita a remoção de arquivos individuais.
 
-[Mais detalhes](./challenge-2)
+[Mais detalhes](./challenge-2.md)
 
 ## Desafio 3: Formulário de Criação de Perfil
 
@@ -24,7 +24,7 @@ Crie uma aplicação que permita ao usuário arrastar e soltar arquivos em uma �
 
 Crie uma aplicação que permita ao usuário criar um perfil preenchendo um formulário com nome, telefone, email, endereço e foto. A foto deve ser enviada utilizando um componente Dropzone.
 
-[Mais detalhes](./challenge-3)
+[Mais detalhes](./challenge-3.md)
 
 ## Como Entregar
 
