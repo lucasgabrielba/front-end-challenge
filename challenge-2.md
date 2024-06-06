@@ -1,4 +1,4 @@
-# Desafio 2: Dropzone Upload Application
+# Desafio 2: Dropzone para Upload de Arquivos
 
 ## Objetivo
 
